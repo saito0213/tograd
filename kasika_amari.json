@@ -1,0 +1,205 @@
+[
+    {
+        "id": 101,
+        "label": "ur\n”F¯\nÎŒ´\n‹Ç’·\n4l",
+        "value": 120,
+        "group": 1,
+        "parent_id": null
+    },
+    {
+        "id": 102,
+        "label": "alt\n•â\nŠÃ—˜\nur\nEˆõ",
+        "value": 110,
+        "group": 1,
+        "parent_id": 101
+    },
+    {
+        "id": 103,
+        "label": "ŠÃ—˜\nur\nŒû—˜‚«\nöó\nŒ»‹à",
+        "value": 10,
+        "group": 1,
+        "parent_id": 102
+    },
+    {
+        "id": 104,
+        "label": "­ô”é‘\nˆêF\nur\nè†\nŠÃ—˜",
+        "value": 40,
+        "group": 1,
+        "parent_id": 103
+    },
+    {
+        "id": 106,
+        "label": "\—§\n”é‘\nŠF—l\n‘Š’k\n–â‘è",
+        "value": 20,
+        "group": 1,
+        "parent_id": 104
+    },
+    {
+        "id": 107,
+        "label": "ur\n’S“–\nŒğÂ\n–â‘è\n•â",
+        "value": 10,
+        "group": 1,
+        "parent_id": 106
+    },
+    {
+        "id": 110,
+        "label": "tpp\nˆÀ”{ñ‘Š\nw“E\n•Ä‘\n–¯i“}",
+        "value": 20,
+        "group": 1,
+        "parent_id": 107
+    },
+    {
+        "id": 111,
+        "label": "ŠÃ—˜\n52–œ‰~\n––±Š\n‘ã•\\næ•û",
+        "value": 10,
+        "group": 1,
+        "parent_id": 110
+    },
+    {
+        "id": 201,
+        "label": "“ú‹â\n«”C\nl–¯Œ³\nŠÃ—˜\ntpp",
+        "value": 30,
+        "group": 2,
+        "parent_id": null
+    },
+    {
+        "id": 202,
+        "label": "ur\ntpp\n”é‘\n‹{è\nˆç‹x",
+        "value": 40,
+        "group": 2,
+        "parent_id": 201
+    },
+    {
+        "id": 211,
+        "label": "ŒŸ¸\nur\n‘Ïk«\n2015”N“x\njv",
+        "value": 10,
+        "group": 2,
+        "parent_id": 202
+    },
+    {
+        "id": 301,
+        "label": "Œšİ‰ïĞ\ntpp\nŠÃ—˜\n‹L–\nur",
+        "value": 40,
+        "group": 3,
+        "parent_id": null
+    },
+    {
+        "id": 302,
+        "label": "ŠÃ—˜\ntpp\n‹{è\nŒû—˜‚«\n”é‘",
+        "value": 50,
+        "group": 3,
+        "parent_id": 301
+    },
+    {
+        "id": 304,
+        "label": "‹L˜^\ntpp\nur\nEˆõ\n­•{",
+        "value": 20,
+        "group": 3,
+        "parent_id": 302
+    },
+    {
+        "id": 307,
+        "label": "©–¯“}\n–¯i“}\ntpp\n”ä—á‘ã•\\n—‘I",
+        "value": 10,
+        "group": 3,
+        "parent_id": 304
+    },
+    {
+        "id": 310,
+        "label": "tpp\n³”F\nÅ’²\n”z‹ôÒTœ\n•Ä‘",
+        "value": 20,
+        "group": 3,
+        "parent_id": 307
+    },
+    {
+        "id": 311,
+        "label": "ƒp[ƒeƒB[\n©–¯\nû“ü\n‹K”Í\n‘åb",
+        "value": 10,
+        "group": 3,
+        "parent_id": 310
+    },
+    {
+        "id": 312,
+        "label": "û“ü\n©–¯“}\n1‰­\n­“}x•”\n’c‘Ì",
+        "value": 10,
+        "group": 3,
+        "parent_id": 311
+    },
+    {
+        "id": 401,
+        "label": "’S“–Ò\n‘–±\n‘ãs\n—Õ\nƒJ‘",
+        "value": 140,
+        "group": 4,
+        "parent_id": null
+    },
+    {
+        "id": 402,
+        "label": "ur\ntpp\nf’f‘\n”­Œ¾\n‹L˜^",
+        "value": 110,
+        "group": 4,
+        "parent_id": 401
+    },
+    {
+        "id": 403,
+        "label": "Œ»‹à\nŠÃ—˜\nur\nˆêF\næŞ",
+        "value": 10,
+        "group": 4,
+        "parent_id": 402
+    },
+    {
+        "id": 404,
+        "label": "ur\nŒğÂ\n2l\nÚ‘Ò\n”é‘",
+        "value": 20,
+        "group": 4,
+        "parent_id": 403
+    },
+    {
+        "id": 406,
+        "label": "ŠÃ—˜\n–â‘è\n”é‘\nà–¾\n­¡‰Æ",
+        "value": 10,
+        "group": 4,
+        "parent_id": 404
+    },
+    {
+        "id": 407,
+        "label": "”é‘\n“üŠ\nEˆõ\n‹cŒˆ\n–Œ",
+        "value": 20,
+        "group": 4,
+        "parent_id": 406
+    },
+    {
+        "id": 408,
+        "label": "”é‘\n“¯–@ˆá”½\n•s\•ª\n•s‹N‘i\nˆÈŠO",
+        "value": 10,
+        "group": 4,
+        "parent_id": 407
+    },
+    {
+        "id": 409,
+        "label": "‹c˜_\nƒCƒ“ƒi[\nŒö–¾“}\nÅ’²\n¢‘Ñ",
+        "value": 10,
+        "group": 4,
+        "parent_id": 408
+    },
+    {
+        "id": 410,
+        "label": "–¯i“}\nw“E\n•Ä‘\n’²¸\ntpp",
+        "value": 10,
+        "group": 4,
+        "parent_id": 409
+    },
+    {
+        "id": 502,
+        "label": "ñ‘Š\nˆÛV\n–¯å\n‹Ê–Ø\n”­Œ¾",
+        "value": 10,
+        "group": 5,
+        "parent_id": null
+    },
+    {
+        "id": 503,
+        "label": "ñ‘Š\n˜@äu\n‘å’Ë\n—«\n¬ì",
+        "value": 10,
+        "group": 5,
+        "parent_id": 502
+    }
+]
